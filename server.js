@@ -4,7 +4,6 @@ const server = jsonServer.create()
 
 const router = jsonServer.router('./db.json')
 const middlewares = jsonServer.defaults()
-server.use(express.static('public'))
 
 server.use(middlewares)
 
@@ -13,6 +12,7 @@ router.render = function (req, res) {
 }
 
 server.use('/db/', router)
+server.use('/*', express.static('public'))
 
 const port = process.env.PORT || 5000
 
