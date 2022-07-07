@@ -14,6 +14,8 @@ router.render = function (req, res) {
 
 server.use('/db/', router)
 
-server.listen(5000, function () {
-  console.log('JSON Server is running')
+const port = process.env.PORT || 5000
+
+server.listen(port, function () {
+  console.log('JSON Server is running on ' + port)
 })
