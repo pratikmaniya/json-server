@@ -1,0 +1,148 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "3 idiots",
+            "details": "In college, Farhan and Raju form a great bond with Rancho due to his positive and refreshing outlook to life. Years later, a bet gives them a chance to look for their long-lost friend whose existence seems rather elusive.",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+            "unitPrice": 1000,
+            "costPrice": "250",
+            "isFeatured": true,
+            "isMovie": true,
+            "isShow": false,
+            "inDeemand": false
+        },
+        {
+            "id": 2,
+            "title": "Battleship",
+            "details": "Lt. Alex Hopper (Taylor Kitsch) is a weapons officer aboard the destroyer USS John Paul Jones, while his older brother, Stone (Alexander Skarsgård), is the commanding officer of the USS Sampson. Unknown to Alex, Stone or the rest of the U.S. Navy, alien invaders have arrived on Earth with plans to steal Earth's resources. When a confrontation with the invaders knocks out the Navy's radar capability, American and Japanese forces must work together to find a way to save the planet.",
+            "image": "https://flxt.tmsimg.com/assets/p8777089_p_v8_ab.jpg",
+            "unitPrice": 300,
+            "costPrice": "250",
+            "isFeatured": true,
+            "isMovie": true,
+            "isShow": false,
+            "inDeemand": false
+        },
+        {
+            "id": 3,
+            "title": "Titanic",
+            "details": "RMS Titanic was a British passenger liner, operated by the White Star Line, which sank in the North Atlantic Ocean on 15 April 1912 after striking an iceberg during her maiden voyage from Southampton, UK, to New York City.",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+            "unitPrice": 200,
+            "costPrice": "30",
+            "isFeatured": true,
+            "isMovie": true,
+            "isShow": false,
+            "inDeemand": false
+        },
+        {
+            "id": 4,
+            "title": "DDLJ",
+            "details": "Raj and Simran meet on a trip to Europe. After some initial misadventures, they fall in love. The battle begins to win over two traditional families.",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDQ2ZmE2NTMtZDE3NC00YzFjLWJhNmEtMDEzMTI5ZjU2ZGM0XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_FMjpg_UX1000_.jpg",
+            "unitPrice": 300,
+            "costPrice": "250",
+            "isMovie": true,
+            "isShow": false,
+            "isFeatured": false,
+            "inDeemand": true
+        },
+        {
+            "id": 5,
+            "title": "Avatar",
+            "details": "On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. Because the planet's environment is poisonous, human/Na'vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora. Jake Sully (Sam Worthington), a paralyzed former Marine, becomes mobile again through one such Avatar and falls in love with a Na'vi woman (Zoe Saldana). As a bond with her grows, he is drawn into a battle for the survival of her world.",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+            "unitPrice": 300,
+            "costPrice": "250",
+            "isFeatured": true,
+            "isMovie": true,
+            "isShow": false,
+            "inDeemand": false
+        },
+        {
+            "id": 6,
+            "title": "Friends",
+            "details": "Six young men and women live in the same apartment complex and face life and love together in Manhattan, New York City. As they're constantly sticking their noses into each another's businesses, as well as sometimes swapping romantic partners, the group always get into the kind of comic situations that most other people never experience, especially during breakups.",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+            "unitPrice": 120,
+            "costPrice": "50",
+            "isFeatured": true,
+            "isMovie": false,
+            "isShow": true,
+            "inDeemand": false
+        },
+        {
+            "id": 7,
+            "title": "Money Heist",
+            "details": "A criminal mastermind who goes by The Professor has a plan to pull off the biggest heist in recorded history -- to print billions of euros in the Royal Mint of Spain. To help him carry out the ambitious plan, he recruits eight people with certain abilities and who have nothing to lose. The group of thieves take hostages to aid in their negotiations with the authorities, who strategize to come up with a way to capture The Professor. As more time elapses, the robbers prepare for a showdown with the police.",
+            "image": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_.jpg",
+            "unitPrice": 150,
+            "costPrice": "50",
+            "isFeatured": true,
+            "isMovie": false,
+            "isShow": true,
+            "inDeemand": false
+        },
+        {
+            "id": 8,
+            "title": "Dark",
+            "details": "When two children go missing in a small German town, its sinful past is exposed along with the double lives and fractured relationships that exist among four families as they search for the kids. The mystery-drama series introduces an intricate puzzle filled with twists that includes a web of curious characters, all of whom have a connection to the town's troubled history -- whether they know it or not. The story includes supernatural elements that tie back to the same town in 1986. 'Dark' represents the first German original series produced for Netflix.",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_.jpg",
+            "unitPrice": 200,
+            "costPrice": "100",
+            "isMovie": false,
+            "isShow": true,
+            "isFeatured": false,
+            "inDeemand": true
+        },
+        {
+            "id": 9,
+            "title": "Lost in Space",
+            "details": "'Danger, Will Robinson!'' The rest of the Robinson clan should be on the lookout for danger, as well, because they are facing challenging times. It's 30 years in the future and the family has been chosen to start a new life in a space colony. On the way to what they believe will be a better world, the Robinsons' ship is abruptly thrown off course and they are thrown into a dangerous alien environment. Now light-years from their original destination, they must forge new alliances and work together to survive. Stranded with the Robinsons are unsettlingly charismatic Dr. Smith and inadvertently charming Don West, two outsiders who are thrown together by circumstance and a mutual knack for deception.",
+            "image": "https://flxt.tmsimg.com/assets/p15197696_b_v13_aa.jpg",
+            "unitPrice": 350,
+            "costPrice": "200",
+            "isFeatured": true,
+            "isMovie": false,
+            "isShow": true,
+            "inDeemand": false
+        },
+        {
+            "id": 10,
+            "title": "Panchayat",
+            "details": "An engineering graduate, for lack of a better job, becomes the secretary of a Panchayat office in a remote village in Uttar Pradesh.",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDkxODJmNDktZDcxMy00MGJkLWI3NzEtNzVkYTdkZWI0ZmVkXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_.jpg",
+            "unitPrice": 400,
+            "costPrice": "250",
+            "isFeatured": true,
+            "isMovie": false,
+            "isShow": true,
+            "inDeemand": false
+        },
+        {
+            "id": 11,
+            "title": "Life of Pi",
+            "details": "After deciding to sell their zoo in India and move to Canada, Santosh and Gita Patel board a freighter with their sons and a few remaining animals. Tragedy strikes when a terrible storm sinks the ship, leaving the Patels' teenage son, Pi (Suraj Sharma), as the only human survivor. However, Pi is not alone; a fearsome Bengal tiger has also found refuge aboard the lifeboat. As days turn into weeks and weeks drag into months, Pi and the tiger must learn to trust each other if both are to survive.",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_.jpg",
+            "unitPrice": 300,
+            "costPrice": "250",
+            "isMovie": true,
+            "isShow": false,
+            "isFeatured": false,
+            "inDeemand": true
+        },
+        {
+            "id": 12,
+            "title": "The Office",
+            "details": "This US adaptation, set at a paper company in Scranton, Pa., has a similar documentary style to that of the Ricky Gervais-led British original. It features the staff of Dunder-Mifflin, a staff that includes characters based on characters from the British show (and, quite possibly, people you work with in your office). There's Jim, the likable employee who's a bit of an everyman. Jim has a thing for receptionist-turned-sales rep Pam (because office romances are always a good idea). There's also Dwight, the successful co-worker who lacks social skills and common sense. And there's Ryan, who has held many jobs at the company.",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UX1000_.jpg",
+            "unitPrice": 900,
+            "costPrice": "550",
+            "isMovie": true,
+            "isShow": false,
+            "isFeatured": false,
+            "inDeemand": true
+        }        
+    ]
+}
